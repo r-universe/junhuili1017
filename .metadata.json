@@ -1,5 +1,9 @@
 [
   {
+    "package": "StepReg",
+    "oncran": true
+  },
+  {
     "package": "TmCalculator",
     "oncran": true
   }
