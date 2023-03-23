@@ -3,6 +3,16 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gtWAS"]
+	path = gtWAS
+	url = https://github.com/cran/gtWAS
+	shallow = true
+	registered = true
+[submodule "ProbeDeveloper"]
+	path = ProbeDeveloper
+	url = https://github.com/cran/ProbeDeveloper
+	shallow = true
+	registered = true
 [submodule "StepReg"]
 	path = StepReg
 	url = https://github.com/junhuili1017/stepreg
