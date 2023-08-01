@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "gtWAS"]
-	path = gtWAS
-	url = https://github.com/cran/gtWAS
 [submodule "ProbeDeveloper"]
 	path = ProbeDeveloper
 	url = https://github.com/cran/ProbeDeveloper
@@ -14,3 +11,6 @@
 [submodule "TmCalculator"]
 	path = TmCalculator
 	url = https://github.com/junhuili1017/tmcalculator
+[submodule "gtWAS"]
+	path = gtWAS
+	url = https://github.com/cran/gtWAS
