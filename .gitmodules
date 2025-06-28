@@ -13,7 +13,7 @@
 	url = https://github.com/junhuili1017/tmcalculator
 [submodule "ZetaSuite"]
 	path = ZetaSuite
-	url = https://github.com/cran/ZetaSuite
+	url = https://github.com/junhuili1017/zetasuite
 [submodule "gtWAS"]
 	path = gtWAS
 	url = https://github.com/cran/gtWAS
