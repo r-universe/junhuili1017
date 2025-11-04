@@ -8,6 +8,9 @@
 [submodule "StepReg"]
 	path = StepReg
 	url = https://github.com/junhuili1017/stepreg
+[submodule "StepRegShiny"]
+	path = StepRegShiny
+	url = https://github.com/junhuili1017/stepregshiny
 [submodule "TmCalculator"]
 	path = TmCalculator
 	url = https://github.com/junhuili1017/tmcalculator
