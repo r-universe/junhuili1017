@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "ProbeDeveloper"]
 	path = ProbeDeveloper
-	url = https://github.com/cran/ProbeDeveloper
+	url = https://github.com/junhuili1017/probedeveloper
 [submodule "StepReg"]
 	path = StepReg
 	url = https://github.com/junhuili1017/stepreg
