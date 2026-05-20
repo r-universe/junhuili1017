@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "JM4QTN"]
+	path = JM4QTN
+	url = https://github.com/junhuili1017/jm4qtn
 [submodule "ProbeDeveloper"]
 	path = ProbeDeveloper
 	url = https://github.com/junhuili1017/probedeveloper
